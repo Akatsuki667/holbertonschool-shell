@@ -1,1 +1,1 @@
-Write the answer in the file 0-current_working_directory 
+Do the task of the project "Basics on Shell" 
