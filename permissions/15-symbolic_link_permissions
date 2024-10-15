@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /permissions/14-change_owner_and_group /permissions15-symbolic_link_permissions
